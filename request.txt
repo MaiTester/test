@@ -6,7 +6,7 @@
  by JUnit as a failure. If no exceptions are thrown, the test is assumed
  to have succeeded.
  <p>
- A simple test looks like this:
+ A simple test looks like this11:
  <pre>
  public class Example {
     <b>&#064;Test</b>
